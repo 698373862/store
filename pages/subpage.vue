@@ -1,0 +1,3 @@
+<template>
+    subpage
+</template>
